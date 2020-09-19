@@ -8,7 +8,7 @@ Here is the link to my [latest news](https://giuseppesilano.net/highlights.html)
 
 If you'd like to get in touch with me, you can reach me at <giuseppe.silano@fel.cvut.cz>.
 
-## Find me around the web: <a href="https://giuseppesilano.net/cv.html"><img align="left" width="250" height="250" src="https://github.com/gsilano/gsilano/blob/main/octocat.png"></a>
+## Find me around the web: <a href="https://giuseppesilano.net/cv.html"><img align="left" width="250" height="250" src="https://github.com/gsilano/gsilano/blob/master/octocat.png"></a>
 - <a href="https://publons.com/researcher/1667164/giuseppe-silano/">Publons</a> 
 - <a href="https://gist.github.com/gsilano">Gist</a> 
 - <a href="https://www.youtube.com/channel/UC33d3qW1EU4jH1fi36Hzc1Q">YouTube</a> 
