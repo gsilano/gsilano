@@ -23,3 +23,5 @@ If you'd like to get in touch with me, you can reach me at <giuseppe.silano@fel.
 <img height="auto" width="40%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gsilano&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=gsilano&theme=dark&hide_border=true&background=FFFFFF00">
 </p>
+
+Credit: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
