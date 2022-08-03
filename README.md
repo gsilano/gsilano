@@ -1,6 +1,6 @@
 # Hi! I'm Giuseppe
 
-Tenured Researcher at the [Ricerca sul Sistema Energetico](https://www.rse-web.it/) and an associate researcher at the [Czech Tehnical University in Prague](http://mrs.felk.cvut.cz/) with a strong interest in software and control of robotics and embedded systems. What excites me most about this field are the challenging, multidisciplinary problems that require me to use my background in Computer Engineering, Computer Science and Control Systems to develop integrated solutions. 
+Tenured Researcher at the [Ricerca sul Sistema Energetico (RSE)](https://www.rse-web.it/) and an associate researcher at the [Czech Tehnical University (CTU) in Prague](http://mrs.felk.cvut.cz/) with a strong interest in software and control of robotics and embedded systems. What excites me most about this field are the challenging, multidisciplinary problems that require me to use my background in Computer Engineering, Computer Science and Control Systems to develop integrated solutions. 
 
 Here you can find out more [about me](https://giuseppesilano.net/cv.html), [my research activities](https://giuseppesilano.net/research.html), [publications](https://giuseppesilano.net/publications.html), and [open-source projects](https://giuseppesilano.net/software.html).
 
