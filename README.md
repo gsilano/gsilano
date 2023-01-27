@@ -9,7 +9,7 @@ Here is the link to my [latest news](https://giuseppesilano.net/highlights.html)
 If you'd like to get in touch with me, you can reach me at <giuseppe.silano@rse-web.it>.
 
 ## Find me around the web: <a href="https://giuseppesilano.net/cv.html"><img align="left" width="300" height="300" src="https://github.com/gsilano/gsilano/blob/master/octocat_transparent.png"></a>
-- <a href="https://publons.com/researcher/1667164/giuseppe-silano/">Publons</a> 
+- <a href="https://www.webofscience.com/wos/author/record/1668893">WebOfScience</a> 
 - <a href="https://gist.github.com/gsilano">Gist</a> 
 - <a href="https://www.youtube.com/channel/UC33d3qW1EU4jH1fi36Hzc1Q">YouTube</a> 
 - <a href="https://www.linkedin.com/in/giuseppe-silano-235370b5/?locale=en_US">LinkedIn</a> 
