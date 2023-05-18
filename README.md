@@ -6,7 +6,7 @@ Here you can find out more [about me](https://giuseppesilano.net/cv.html), [my r
 
 Here is the link to my [latest news](https://giuseppesilano.net/highlights.html)
 
-If you'd like to get in touch with me, you can reach me at <giuseppe.silano@rse-web.it>.
+If you'd like to get in touch with me, you can reach me at <giuseppe.silano@rse-web.it> or <giuseppe.silano@fel.cvut.cz>.
 
 ## Find me around the web: <a href="https://giuseppesilano.net/cv.html"><img align="left" width="300" height="300" src="https://github.com/gsilano/gsilano/blob/master/octocat_transparent.png"></a>
 - <a href="https://www.webofscience.com/wos/author/record/1668893">WebOfScience</a> 
